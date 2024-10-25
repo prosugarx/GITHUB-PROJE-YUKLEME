@@ -8,7 +8,7 @@ visual studiodan kodları nasıl githuba yüklerim?
 
 ## 2. COMMİT OR STASH A BASIN <br/>
 
-## 3. EĞER İLK KEZ PROJE OLUŞTURUYORSANIZ NEW REPROSTY OLUŞTURUN
+## 3. EĞER İLK KEZ PROJE OLUŞTURUYORSANIZ NEW REPOSTORİES OLUŞTURUN
 
 ## 4. GÜNCELLEMEK İÇİN 
 ![COMMİTSTASH](https://github.com/user-attachments/assets/9fe506a4-ec98-4d1a-953a-2e72af205cb0)
